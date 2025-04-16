@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MACKEYLABS
-- 👀 I’m interested in learning PHP, JAVA, Linux, Microsoft SQL, UI/UX, MySQL, Scripting, Python, AI-Prompting, Cisco Networking, Cloud   services, and anything related to engineering or software development.
+- 👀 I’m interested in learning .NET, PHP, JAVA, Linux, Microsoft SQL, UI/UX, MySQL, Scripting, Python, AI-Prompting, Cisco Networking, Cloud   services, and anything related to engineering or software development.
 - 🌱 I’m currently learning PHP and Laravel.
 - 💞️ I’m looking to collaborate on any project that will help me become a better software developer!!!
 - 📫 How to reach me: Craig.Mack3y@gmail.com
